@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/EasyBiciBack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EasyBiciFront" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/davidTask/Task-Planner-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-material" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/task-planner-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taskback" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taskplanner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taskplannerfinal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-app" vcs="Git" />
+  </component>
+</project>
